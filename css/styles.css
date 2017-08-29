@@ -775,7 +775,7 @@ width: -webkit-calc(100% / 2);
 .about-us {
 	background: #272727;
 	color: #FFF;
-	padding-bottom: 100px;
+	/*padding-bottom: 100px;*/
 }
 .about-us .big-intro {
 	text-align: right;

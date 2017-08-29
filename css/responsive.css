@@ -47,7 +47,7 @@
 	.intro {
 		margin-top: 31%;
 		line-height: 3.438rem !important;
-		font-size: 2.813rem;
+		/*font-size: 2.813rem;*/
 	}
       
       /* ABOUT US */
@@ -147,7 +147,7 @@
 	.intro {
 	    margin-top: 30%;
 		line-height: 3.438rem !important;
-		font-size: 2.813rem;
+		/*font-size: 2.813rem;*/
 	}
       
       /* ABOUT US */
@@ -214,7 +214,7 @@
 	.intro {
 		margin-top: 40%;
 		line-height: 3.438rem !important;
-		font-size: 2.813rem;
+		/*font-size: 2.813rem;*/
 	}
     
     .focus,.works,.about-us,.features, .our-team,.packages,.products .color-overlay,.testimonial,.contact-us {

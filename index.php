@@ -4,11 +4,11 @@
 <!-- Mirrored from demo.templateocean.com/wrapbootstrap/zerif-html/v1.3.1/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 20 Aug 2017 22:19:25 GMT -->
 <head>
 <meta charset="UTF-8">
-<meta name="description" content="Beautiful Responsive Animated OnePage Template" />
-<meta name="keywords" content="Zerif, responsive, html, template, creative"/>
-<meta name="author" content="Mizanur Rahman" />
+<meta name="description" content="lugbrand" />
+<meta name="keywords" content="lugbrand"/>
+<meta name="author" content="Luis Rodriguez" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Zerif - Responsive One Page Template</title>
+<title>Lugbrand</title>
 
 <!-- =========================
  FAV AND TOUCH ICONS  
@@ -33,6 +33,7 @@
 <!-- CUSTOM STYLES -->
 <link rel="stylesheet" href="css/styles.css">
 <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 
 <!-- WEBFONT -->
 <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic|Montserrat:700,400|Homemade+Apple' rel='stylesheet' type='text/css'>
@@ -57,6 +58,33 @@
 <!-- =========================
    HOME SECTION       
 ============================== -->
+
+<section class="purchase-now" style="    padding-bottom: 0;    padding-top: 0;    background: black;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <div class="col-md-9">
+                    <h3 class="white-text wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        Únete a la comunidad de socios de Lugbrand</h3>
+                </div>
+                <div class="col-md-3">
+                    <a href="#" class="btn btn-primary custom-button red-btn btn-sm">Suscríbete</a>
+                </div>
+            </div>
+            <div class="col-md-3 wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+<!--                <a href="#" class="btn btn-primary custom-button red-btn">Purchase Now</a>-->
+<!--                <div class="social-icons">-->
+                    <ul class="social" style="margin-top: 14px;">
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
+                        <li><a href="#"><i class="fa fa-facebook-official"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+                    </ul>
+<!--                </div>-->
+            </div>
+        </div>
+    </div>
+</section>
 <header id="home" class="header">
 	
 	<!-- TOP BAR -->
@@ -95,32 +123,35 @@
 	<div class="container">
 		
 		<!-- HEADING -->
-		<h1 class="intro">Affordable 222 Quality services for Small Businesses</h1>
-		
+		<h2 class="intro" style="text-align: left;     color: #ce642f;    font-family: monospace;">MARKETING INSÓLITO</h2>
+		<h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">NUESTRO SECRETO DE CREACIÓN, </h3>
+		<h3 class="intro" style="text-align: left; margin-top: 0;    font-family: monospace;">COMO TRIÁNGULO,</h3>
+		<h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">SE BASA EN TRES GRANDES PILARES </h3>
+
 		<!-- CALL TO ACTION BUTTONS -->
-		<div class="buttons inpage-scroll">
-			<a href="#works" class="btn btn-primary custom-button red-btn">Our Works</a>
-			<a href="#pricingtable" class="btn btn-primary custom-button green-btn">Our Packages</a>
-		</div>
+<!--		<div class="buttons inpage-scroll">-->
+<!--			<a href="#works" class="btn btn-primary custom-button red-btn">Our Works</a>-->
+<!--			<a href="#pricingtable" class="btn btn-primary custom-button green-btn">Our Packages</a>-->
+<!--		</div>-->
 		
 		<!-- 3 SHORT MESSAGE ABOUT COMPANY -->
-        <div class="row bottom-message-section">
-			<div class="col-lg-4 col-sm-4">
-				<div class="short-text">
-					<i class="icon icon-fontawesome-webfont-358"></i> Fixed price for packages
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-4">
-				<div class="short-text">
-					<i class="icon-fontawesome-webfont-286"></i> Quality product in time
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-4">
-				<div class="short-text">
-					<i class="icon-fontawesome-webfont-347"></i> Satisfaction guranteed
-				</div>
-			</div>
-		</div>
+<!--        <div class="row bottom-message-section">-->
+<!--			<div class="col-lg-4 col-sm-4">-->
+<!--				<div class="short-text">-->
+<!--					<i class="icon icon-fontawesome-webfont-358"></i> Fixed price for packages-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="col-lg-4 col-sm-4">-->
+<!--				<div class="short-text">-->
+<!--					<i class="icon-fontawesome-webfont-286"></i> Quality product in time-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="col-lg-4 col-sm-4">-->
+<!--				<div class="short-text">-->
+<!--					<i class="icon-fontawesome-webfont-347"></i> Satisfaction guranteed-->
+<!--				</div>-->
+<!--			</div>-->
+<!--		</div>-->
 	</div> <!-- / END BIG HEADING WITH CALL TO ACTION BUTTONS AND SHORT MESSAGES  -->
 	
 </header> <!-- / END HOME SECTION  -->
@@ -136,12 +167,12 @@
 	<div class="section-header">
 		
 		<!-- SECTION TITLE -->
-		<h2 class="dark-text">Our Focus</h2>
+		<h2 class="dark-text" style="font-family: monospace">LugBrand</h2>
 		
 		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
-		<h6>
-			We design &amp; develop qaulity products to help small &amp; medium level business.
-		</h6>
+<!--		<h6>-->
+<!--			We design &amp; develop qaulity products to help small &amp; medium level business.-->
+<!--		</h6>-->
 	</div>
 	<!-- / END SECTION HEADER -->
 	
@@ -149,67 +180,28 @@
 	<div class="row">
 		
 		<!-- FIRST FOCUS BOXES -->
-		<div class="col-lg-3 col-sm-3 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+		<div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<div class="service-icon">
 				<i class="pixeden pd-icon-monitor"></i> <!-- FOCUS ICON-->
 			</div>
-			<h5 class="red-border-bottom">Web Design</h5> <!-- FOCUS HEADING -->
-			<p> <!-- FOCUS DESCRIPTION -->
-				 Created cattle form fruit. Saying from given together face without waters, whose. Second first. Face it saw give creature was thing. Over upon is brought. Him you'll above kind set
-			</p>
+			<h5 class="red-border-bottom">Estratégia y Táctica</h5> <!-- FOCUS HEADING -->
 		</div>
 		<!-- / END FIRST FOCUS BOX. Other boxes has same format -->
 		
-		<div class="col-lg-3 col-sm-3 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+		<div class="col-lg-4 col-sm-4 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<div class="service-icon">
 				<span class="pixeden pd-icon-camera"></span>
 			</div>
-			<h5 class="green-border-bottom">Photography</h5>
-			<p>
-				 Created cattle form fruit. Saying from given together face without waters, whose. Second first. Face it saw give creature was thing. Over upon is brought. Him you'll above kind set
-			</p>
+			<h5 class="green-border-bottom">Diseño Creativo</h5>
 		</div>
 		
-		<div class="col-lg-3 col-sm-3 focus-box blue wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+		<div class="col-lg-4 col-sm-4 focus-box blue wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<div class="service-icon">
 				<i class="pixeden pd-icon-email-marketing"></i>
 			</div>
-			<h5 class="blue-border-bottom">Email Marketing</h5>
-			<p>
-				 Created cattle form fruit. Saying from given together face without waters, whose. Second first. Face it saw give creature was thing. Over upon is brought. Him you'll above kind set
-			</p>
-		</div>
-		
-		<div class="col-lg-3 col-sm-3 focus-box yellow wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-			<div class="service-icon">
-				<i class="pixeden pd-icon-check"></i>
-			</div>
-			<h5 class="yellow-border-bottom">SEO &amp; SMM</h5>
-			<p>
-				 Created cattle form fruit. Saying from given together face without waters, whose. Second first. Face it saw give creature was thing. Over upon is brought. Him you'll above kind set
-			</p>
+			<h5 class="blue-border-bottom">Generación Digital</h5>
 		</div>
 	</div>
-	<!-- / END 4 FOCUS BOXES -->
-	
-	<!-- OTHER FOCUSES -->
-	<div class="other-focuses">
-		<h5><span class="section-footer-title">ALSO WE FOCUS ON</span></h5>
-	</div>
-	
-	<!-- OTHER FOCUS LIST -->
-	<div class="other-focus-list wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-		<ul>
-			<li><i class="icon-fontawesome-webfont-8"></i>WEB APPLICATIONS</li>
-			<li><i class="icon-fontawesome-webfont-267"></i>SEARCH ENGINE OPTIMIZATION</li>
-			<li><i class="icon-fontawesome-webfont-75"></i>CLOUD STORAGE</li>
-			<li><i class="icon-fontawesome-webfont-358"></i>Project Management</li>
-			<li><i class="icon-fontawesome-webfont-102"></i>IOS APP</li>
-			<li><i class="icon-fontawesome-webfont-328"></i>ANDROID APP</li>
-			<li><i class="icon-fontawesome-webfont-195"></i>WINDOWS APP</li>
-			<li><i class="icon-fontawesome-webfont-297"></i>UX STRATEGY</li>
-		</ul>
-	</div> <!-- / END OTHER FOCUS LIST -->
 </div> <!-- / END CONTAINER -->
 </section>  <!-- / END FOCUS SECTION -->
 
@@ -469,31 +461,17 @@
 <section class="about-us" id="aboutus">
 <div class="container">
 	
-	<!-- SECTION HEADER -->
-	<div class="section-header">
-		
-		<!-- SECTION TITLE -->
-		<h2 class="white-text">About US</h2>
-		
-		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
-		<h6 class="white-text">
-				We design &amp; develop qaulity products to help small &amp; medium level business.
-		</h6>
-	</div>
-	<!-- / END SECTION HEADER -->
-	
-	<!-- 3 COLUMNS OF ABOUT US-->
 	<div class="row">
 		
 		<!-- COLUMN 1 - BIG MESSAGE ABOUT THE COMPANY-->
-		<div class="col-lg-4 col-md-4 column">
+		<div class="col-lg-6 col-md-6 column">
 			<div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-				 Developing Amazing Things with Passion since 2002.
+                <img src="images/portfolio/7.jpg"  alt="project"/>
 			</div>
 		</div>
 		
 		<!-- COLUMN 2 - BRIEF ABOUT THE COMPANY-->
-		<div class="col-lg-4 col-md-4 column">
+		<div class="col-lg-6 col-md-6 column">
 			<p class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 				 Created forth two. Behold appear first, kind all i saying fowl man itself moved which every open shall moved subdue appear. Saying life wherein stars. Give dry, own, male had that us third lesser over deep. May every bring in it Whose. Female earth heaven won't behold female.<br/><br/>
 				Moved bearing give a two after. Had. Seas. Man they're. Grass above kind saying thing for that void sixth fly His after it.<br/><br/>
@@ -501,74 +479,8 @@
 			</p>
 		</div>
 		
-		<!-- COLUMN 1 - SKILSS-->
-		<div class="col-lg-4 col-md-4 column">
-			<ul class="skills wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-				
-				<!-- SKILL ONE -->
-				<li class="skill">
-					<div class="skill-count">
-						<input type="text" value="86" data-thickness=".2" class="skill1">
-					</div>
-					<h6>Web Design</h6>
-					<p>
-						We are expert on HTML development. Clean, semantic and valid HTML codes.
-					</p>
-				</li>
-				
-				<!-- SKILL TWO -->
-				<li class="skill">
-					<div class="skill-count">
-						<input type="text" value="80" data-thickness=".2" class="skill2">
-					</div>
-					<h6>development</h6>
-					<p>
-						We are expert on HTML development. Clean, semantic and valid HTML codes.
-					</p>
-				</li>
-				
-				<!-- SKILL THREE -->
-				<li class="skill">
-					<div class="skill-count">
-						<input type="text" value="89" data-thickness=".2" class="skill3">
-					</div>
-					<h6>photography</h6>
-					<p>
-						We are expert on HTML development. Clean, semantic and valid HTML codes.
-					</p>
-				</li>
-				
-				<!-- SKILL FOUR -->
-				<li class="skill">
-					<div class="skill-count">
-						<input type="text" value="95" data-thickness=".2" class="skill4">
-					</div>
-					<h6>SEO</h6>
-					<p>
-						We are expert on HTML development. Clean, semantic and valid HTML codes.
-					</p>
-				</li>
-				
-			</ul> 
-		</div> <!-- / END SKILLS COLUMN-->
 	</div> <!-- / END 3 COLUMNS OF ABOUT US-->
 
-	<!-- CLIENTS -->
-	<div class="our-clients">
-		<h5><span class="section-footer-title">OUR HAPPY CLIENTS</span></h5>
-	</div>
-	<!-- CLIENT LIST -->
-	<div class="client-list">
-		<ul class="wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-			<li><a href="#"><img src="images/clients/1.png" alt="Client 1"></a></li>
-			<li><a href="#"><img src="images/clients/2.png" alt="Client 2"></a></li>
-			<li><a href="#"><img src="images/clients/3.png" alt="Client 3"></a></li>
-			<li><a href="#"><img src="images/clients/1.png" alt="Client 1"></a></li>
-			<li><a href="#"><img src="images/clients/4.png" alt="Client 4"></a></li>
-			<li><a href="#"><img src="images/clients/5.png" alt="Client 5"></a></li>
-			<li><a href="#"><img src="images/clients/6.png" alt="Client 6"></a></li>
-		</ul>
-	</div> <!-- / END CLIENT LIST -->
 </div> <!-- / END CONTAINER -->
 
 </section> <!-- END ABOUT US SECTION -->
@@ -1756,11 +1668,10 @@
 	<!-- SOCIAL ICON AND COPYRIGHT -->
 	<div class="col-lg-3 col-sm-3 copyright">
 		<ul class="social">
-			<li><a href="#"><i class="icon-facebook"></i></a></li>
-			<li><a href="#"><i class="icon-twitter-alt"></i></a></li>
-			<li><a href="#"><i class="icon-linkedin"></i></a></li>
-			<li><a href="#"><i class="icon-behance"></i></a></li>
-			<li><a href="#"><i class="icon-dribbble"></i></a></li>
+            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
+            <li><a href="#"><i class="fa fa-facebook-official"></i></a></li>
+            <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
 		</ul>
 		 ©2013 Zerif LLC
 	</div>
@@ -1779,5 +1690,4 @@
 
 </body>
 
-<!-- Mirrored from demo.templateocean.com/wrapbootstrap/zerif-html/v1.3.1/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 20 Aug 2017 22:19:54 GMT -->
 </html>

@@ -280,3 +280,16 @@
 		display: block;
 	}
 }
+
+.customHiddenSubscribeBar {
+	display: block;
+}
+
+@media (max-width: 991px) and (min-width: 200px) {
+	.customHiddenSubscribeBar {
+		display: none;
+	}
+	.customFixedImage {
+		float: none!important;
+	}
+}

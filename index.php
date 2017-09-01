@@ -128,30 +128,6 @@
 		<h3 class="intro" style="text-align: left; margin-top: 0;    font-family: monospace;">COMO TRIÁNGULO,</h3>
 		<h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">SE BASA EN TRES GRANDES PILARES </h3>
 
-		<!-- CALL TO ACTION BUTTONS -->
-<!--		<div class="buttons inpage-scroll">-->
-<!--			<a href="#works" class="btn btn-primary custom-button red-btn">Our Works</a>-->
-<!--			<a href="#pricingtable" class="btn btn-primary custom-button green-btn">Our Packages</a>-->
-<!--		</div>-->
-		
-		<!-- 3 SHORT MESSAGE ABOUT COMPANY -->
-<!--        <div class="row bottom-message-section">-->
-<!--			<div class="col-lg-4 col-sm-4">-->
-<!--				<div class="short-text">-->
-<!--					<i class="icon icon-fontawesome-webfont-358"></i> Fixed price for packages-->
-<!--				</div>-->
-<!--			</div>-->
-<!--			<div class="col-lg-4 col-sm-4">-->
-<!--				<div class="short-text">-->
-<!--					<i class="icon-fontawesome-webfont-286"></i> Quality product in time-->
-<!--				</div>-->
-<!--			</div>-->
-<!--			<div class="col-lg-4 col-sm-4">-->
-<!--				<div class="short-text">-->
-<!--					<i class="icon-fontawesome-webfont-347"></i> Satisfaction guranteed-->
-<!--				</div>-->
-<!--			</div>-->
-<!--		</div>-->
 	</div> <!-- / END BIG HEADING WITH CALL TO ACTION BUTTONS AND SHORT MESSAGES  -->
 	
 </header> <!-- / END HOME SECTION  -->
@@ -213,11 +189,10 @@
 			</div>
 		</div>
 		
-		<div class="col-lg-6 col-md-6 column" style="margin-left: 4%">
-			<p class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-				 Created forth two. Behold appear first, kind all i saying fowl man itself moved which every open shall moved subdue appear. Saying life wherein stars. Give dry, own, male had that us third lesser over deep. May every bring in it Whose. Female earth heaven won't behold female.<br/><br/>
-				Moved bearing give a two after. Had. Seas. Man they're. Grass above kind saying thing for that void sixth fly His after it.<br/><br/>
-				The set doesn't moved. Deep don't fruit fowl gathering heaven days moving creeping under from i air. Set it fifth Meat was darkness. every bring in it Whose. Female earth heaven won't behold female.
+		<div class="col-lg-6 col-md-6 column" style="margin-left: 4%; font-size: 1.5em;">
+			<p style="text-align: justify;">
+				 La visión de una estrategia es un arte delicado, dificil de obtener. Estamos ansiosos por entrar al campo de batalla y entregarle la vistoria a tu Marca.<br/><br/>
+				La estratégia correcta para determinar, en gran medida, el éxito de tu producto o servicio. Trabajamos en base a tus atributos para posicionarte sobre la competencia.
 			</p>
 		</div>
 	</div>
@@ -227,17 +202,15 @@
 <section class="about-us" id="aboutus2" style="background-color: #c1c1c1; color: black;">
 <div class="container">
 	<div class="row">
-        <div class="col-lg-5 col-md-5 column pull-right customFixedImage">
+        <div class="col-lg-6 col-md-6 column pull-right customFixedImage">
             <div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
                 <img class="img-responsive" src="images/portfolio/7.jpg"  alt="project"/>
             </div>
         </div>
-		<div class="col-lg-7 col-md-7 column">
-			<p class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-				 Created forth two. Behold appear first, kind all i saying fowl man itself moved which every open shall moved subdue appear. Saying life wherein stars. Give dry, own, male had that us third lesser over deep. May every bring in it Whose. Female earth heaven won't behold female.<br/><br/>
-				Moved bearing give a two after. Had. Seas. Man they're. Grass above kind saying thing for that void sixth fly His after it.<br/><br/>
-				The set doesn't moved. Deep don't fruit fowl gathering heaven days moving creeping under from i air. Set it fifth Meat was darkness. every bring in it Whose. Female earth heaven won't behold female.
-			</p>
+		<div class="col-lg-6 col-md-6 column" style="font-size: 1.5em;">
+			<p style="text-align: justify; color: black;">
+                El Branding no solo se trata de diseñar ruido que no pueda ser distinguido entre la multitud, es el arte de crear marcas exitosas, que manejamos a la perfección.
+            </p>
 		</div>
 	</div>
 </div>
@@ -252,11 +225,10 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-6 column" style="margin-left: 4%">
-                <p class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                    Created forth two. Behold appear first, kind all i saying fowl man itself moved which every open shall moved subdue appear. Saying life wherein stars. Give dry, own, male had that us third lesser over deep. May every bring in it Whose. Female earth heaven won't behold female.<br/><br/>
-                    Moved bearing give a two after. Had. Seas. Man they're. Grass above kind saying thing for that void sixth fly His after it.<br/><br/>
-                    The set doesn't moved. Deep don't fruit fowl gathering heaven days moving creeping under from i air. Set it fifth Meat was darkness. every bring in it Whose. Female earth heaven won't behold female.
+            <div class="col-lg-6 col-md-6 column" style="margin-left: 4%; font-size: 1.5em;">
+                <p style="text-align: justify;">
+                    el Marketing Digital es parte de nosotros, es nuestro principal proposito, por eso somos competidores obsecionadosy tu voz a la Comunidad 24/7.<br/><br/>
+                    Creamos, compartimos, recogemos la data compleja y la analizamos para perfeccionar la estratégia. Somos ingenieros del Social Media.
                 </p>
             </div>
         </div>
@@ -268,10 +240,10 @@
         <div class="row">
             <div class="col-md-8">
                 <h3 class="white-text" style="text-align: right;">
-                    Únete a la comunidad de socios de Lugbrand</h3>
+                    Conoce nuestro Portafolio Online</h3>
             </div>
             <div class="col-md-4">
-                <a href="#" class="btn btn-primary custom-button btn-sm" style="background-color: black">Suscríbete</a>
+                <a href="#" class="btn btn-primary custom-button btn-sm" style="background-color: black">Solicitar</a>
             </div>
         </div>
     </div>
@@ -288,11 +260,12 @@
 
         </div>
         <div class="container">
-            <div class="col-lg-6 col-md-6 column">
-                <p class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                    Created forth two. Behold appear first, kind all i saying fowl man itself moved which every open shall moved subdue appear. Saying life wherein stars. Give dry, own, male had that us third lesser over deep. May every bring in it Whose. Female earth heaven won't behold female.<br/><br/>
-                    Moved bearing give a two after. Had. Seas. Man they're. Grass above kind saying thing for that void sixth fly His after it.<br/><br/>
-                    The set doesn't moved. Deep don't fruit fowl gathering heaven days moving creeping under from i air. Set it fifth Meat was darkness. every bring in it Whose. Female earth heaven won't behold female.
+            <div class="col-lg-6 col-md-6 column"  style="font-size: 1.5em;">
+                <p style="text-align: justify;">
+                    1 de cada 3 clientes considera que las Redes Sociales son un medio efectivo para descubir productos o marcas.<br/><br/>
+                    Hay 2,3 millones de usuarios  activos en Redes Sociales en la actualidad.<br/><br/>
+                    Instagram tiene ahora 400 millones de usuarios activos<br/><br/>
+                    Google procesa 100 mil millones de busquedas cada mes, es decir, en promedio 40 mil por segundo.
                 </p>
             </div>
             <div class="col-lg-6 col-md-6 column">
@@ -306,26 +279,23 @@
     <div class="container">
         <div class="row">
             <div class="section-header" style="padding-bottom: 30px; text-align: right;">
-                <h3 class="white-text" style="color: black;">HACEMOS INVESTIGACIÓN DE MERCADO</h3>
+                <h3 class="white-text" style="color: black;margin-right: 4%;">HACEMOS INVESTIGACIÓN DE MERCADO</h3>
             </div>
-            <div class="col-lg-10 col-md-10 column">
-                <p style="color: black;">
-                    Created forth two. Behold appear first, kind all i saying fowl man itself moved which every open shall moved subdue appear. Saying life wherein stars. Give dry, own, male had that us third lesser over deep. May every bring in it Whose. Female earth heaven won't behold female.<br/><br/>
-                    Moved bearing give a two after. Had. Seas. Man they're. Grass above kind saying thing for that void sixth fly His after it.<br/><br/>
-                    The set doesn't moved. Deep don't fruit fowl gathering heaven days moving creeping under from i air. Set it fifth Meat was darkness. every bring in it Whose. Female earth heaven won't behold female.
+            <div class="col-lg-10 col-md-10 column" style="margin-bottom: 2%;">
+                <p style="color: black; text-align: justify; font-size: 1.5em;">
+                    ¿Como complaces al mercado sin conocerlo? en LugBrand estamos obsecionados con el conocimiento, por eso nos dedicamos a realizar Investigaciones
+                    de Mercado que nos permiten ampliar nuestra vision para entender al entorno, siempre recordando que
                 </p>
             </div>
         </div>
 
         <div class="row">
             <div class="section-header" style="padding-bottom: 30px; text-align: right;">
-                <h3 class="white-text" style="color: black;">HACEMOS INVESTIGACIÓN DE MERCADO</h3>
+                <h3 class="white-text" style="color: black; margin-right: 4%;">EL CONOCIMIENTO ES UN ARMA DE CONSTRUCCIOÓN MASIVA</h3>
             </div>
             <div class="col-lg-10 col-md-10 column">
-                <p style="color: black;">
-                    Created forth two. Behold appear first, kind all i saying fowl man itself moved which every open shall moved subdue appear. Saying life wherein stars. Give dry, own, male had that us third lesser over deep. May every bring in it Whose. Female earth heaven won't behold female.<br/><br/>
-                    Moved bearing give a two after. Had. Seas. Man they're. Grass above kind saying thing for that void sixth fly His after it.<br/><br/>
-                    The set doesn't moved. Deep don't fruit fowl gathering heaven days moving creeping under from i air. Set it fifth Meat was darkness. every bring in it Whose. Female earth heaven won't behold female.
+                <p style="color: black; text-align: justify; font-size: 1.5em;">
+                    Recibe nuestros artículos mensuales <a href="#" class="btn btn-primary custom-button btn-sm" style="background-color: black">Suscríbete</a>
                 </p>
             </div>
         </div>
@@ -340,7 +310,7 @@
         <div class="section-header">
 
             <!-- SECTION TITLE -->
-            <h2 class="dark-text" style="font-family: monospace">LugBrand</h2>
+            <h2 class="dark-text" style="font-family: monospace">Diario LugBrand</h2>
 
             <!-- SHORT DESCRIPTION ABOUT THE SECTION -->
             <!--		<h6>-->
@@ -384,12 +354,8 @@
         <div class="section-header">
 		
 		<!-- SECTION TITLE -->
-		<h2 class="white-text">Get in touch</h2>
+		<h2 class="white-text">Contacto</h2>
 		
-		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
-		<h6 class="white-text">
-			Have any question? Drop us a message. We will get back to you in 24 hours.
-		</h6>
 	</div>
 	<!-- / END SECTION HEADER -->
 	
@@ -398,18 +364,18 @@
 		<form role="form" class="contact-form" id="contact-form">
 			<div class="wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<div class="col-lg-4 col-sm-4">
-				<input type="text" name="name" placeholder="Your Name" class="form-control input-box" id="name">
+				<input type="text" name="name" placeholder="Su Nombre" class="form-control input-box" id="name">
 			</div>
 			<div class="col-lg-4 col-sm-4">
-				<input type="email" name="email" placeholder="Your Email" class="form-control input-box" id="email">
+				<input type="email" name="email" placeholder="Su Correo" class="form-control input-box" id="email">
 			</div>
 			<div class="col-lg-4 col-sm-4">
-				<input type="text" name="subject" placeholder="Subject" class="form-control input-box" id="subject">
+				<input type="text" name="subject" placeholder="Asunto" class="form-control input-box" id="subject">
 			</div>
 			</div>
 			
 			<div class="col-md-12 wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-				<textarea name="message" class="form-control textarea-box" placeholder="Your Message" id="message"></textarea>
+				<textarea name="message" class="form-control textarea-box" placeholder="Su Mensaje" id="message"></textarea>
 			</div>
 			<!-- IF MAIL SENT SUCCESSFULLY -->
 					<h4 class="success pull-left white-text">
@@ -420,7 +386,7 @@
 					<h4 class="error pull-left white-text">
 						E-mail must be valid and message must be longer than 1 character.
 					</h4>
-			<button class="btn btn-primary custom-button red-btn wow fadeInLeft animated" id="submit" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" type="submit">Send Message</button>
+			<button class="btn btn-primary custom-button red-btn wow fadeInLeft animated" id="submit" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" type="submit">Enviar Mensaje</button>
 		</form>
 	</div>
 	<!-- / END CONTACT FORM-->

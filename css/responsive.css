@@ -293,3 +293,9 @@
 		float: none!important;
 	}
 }
+
+@media (max-width: 481px) and (min-width: 200px) {
+	.positionCenterFixedLogo {
+		text-align: -webkit-center;
+	}
+}

@@ -67,7 +67,7 @@
                         <b>&Uacute;nete a la comunidad de socios de Lugbrand</b></h3>
                 </div>
                 <div class="col-md-3">
-                    <a href="#" class="btn btn-primary custom-button red-btn btn-sm" style="background: #d9572f;    padding-left: 20px;padding-right: 20px;">Suscr&iacute;bete</a>
+                    <a href="#contact" class="btn btn-primary custom-button red-btn btn-sm" style="background: #d9572f;    padding-left: 20px;padding-right: 20px;">Suscr&iacute;bete</a>
                 </div>
             </div>
             <div class="col-md-3 wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
@@ -91,7 +91,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <div class="navbar-brand">
+                <div class="navbar-brand fixedMarginMainIcon">
                     <div class="positionCenterFixedLogo" style="width: 100%;">
                         <a href="#home">
                             <img class="img-responsive" src="images/lugbrand.png" alt="Zerif" style="height: -webkit-fill-available;">
@@ -159,7 +159,7 @@
                 </div>
             </div>
 		
-            <div class="col-lg-6 col-md-6 column" style="margin-left: 4%; font-size: 1.5em;">
+            <div class="col-lg-6 col-md-6 column fontSizeFixed" style="margin-left: 4%; font-size: 1.5em;">
                 <p style="text-align: justify; color: white;">
                     La visi&oacute;n de una estrategia es un arte delicado, dificil de obtener. Estamos ansiosos por entrar al campo de batalla y entregarle la vistoria a tu Marca.<br/><br/>
                     La estrat&eacute;gia correcta para determinar, en gran medida, el &eacute;xito de tu producto o servicio. Trabajamos en base a tus atributos para posicionarte sobre la competencia.
@@ -177,7 +177,7 @@
                     <img class="img-responsive marginCustomImages" src="images/portfolio/7.jpg"  alt="project"/>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 column" style="font-size: 1.5em;">
+            <div class="col-lg-6 col-md-6 column fontSizeFixed" style="font-size: 1.5em;">
                 <p style="text-align: justify; color: #000718; padding-top: 10%;">
                     El Branding no solo se trata de dise&ntilde;ar ruido que no pueda ser distinguido entre la multitud, es el arte de crear marcas exitosas, que manejamos a la perfecci&oacute;n.
                 </p>
@@ -195,7 +195,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-6 column" style="margin-left: 4%; font-size: 1.5em;">
+            <div class="col-lg-6 col-md-6 column fontSizeFixed" style="margin-left: 4%; font-size: 1.5em;">
                 <p style="text-align: justify; color: white;    margin-top: 10%;">
                     El Marketing Digital es parte de nosotros, es nuestro principal proposito, por eso somos competidores obsecionados y tu voz a la Comunidad 24/7.<br/><br/>
                     Creamos, compartimos, recogemos la data compleja y la analizamos para perfeccionar la estrat&eacute;gia. Somos ingenieros del Social Media.
@@ -213,7 +213,7 @@
                     Conoce nuestro Portafolio Online</h3>
             </div>
             <div class="col-md-4">
-                <a href="#" class="btn btn-primary custom-button btn-sm" style="background-color: #000718; font-size: 1.2em;">Solicitar</a>
+                <a href="#contact" class="btn btn-primary custom-button btn-sm" style="background-color: #000718; font-size: 1.2em;">Solicitar</a>
             </div>
         </div>
     </div>
@@ -263,7 +263,7 @@
             </div>
             <div class="col-lg-10 col-md-10 column">
                 <p style="color: black; text-align: justify; font-size: 1.5em;">
-                    Recibe nuestros art&iacute;culos mensuales <a href="#" class="btn btn-primary custom-button btn-sm" style="background-color: black"><b>Suscr&iacute;bete</b></a>
+                    Recibe nuestros art&iacute;culos mensuales <a href="#contact" class="btn btn-primary custom-button btn-sm" style="background-color: black"><b>Suscr&iacute;bete</b></a>
                 </p>
             </div>
         </div>

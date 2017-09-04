@@ -299,3 +299,21 @@
 		text-align: -webkit-center;
 	}
 }
+
+@media (max-width: 991px) and (min-width: 700px) {
+	.marginCustomImages{
+		margin-left: 25%;
+	}
+}
+
+@media (max-width: 699px) and (min-width: 550px) {
+	.marginCustomImages{
+		margin-left: 15%;
+	}
+}
+
+@media (max-width: 549px) and (min-width: 450px) {
+	.marginCustomImages{
+		margin-left: 7%;
+	}
+}

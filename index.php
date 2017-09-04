@@ -64,18 +64,18 @@
             <div class="col-md-9">
                 <div class="col-md-9">
                     <h3 class="white-text wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                        <b>Únete a la comunidad de socios de Lugbrand</b></h3>
+                        <b>&Uacute;nete a la comunidad de socios de Lugbrand</b></h3>
                 </div>
                 <div class="col-md-3">
-                    <a href="#" class="btn btn-primary custom-button red-btn btn-sm" style="background: #d9572f;    padding-left: 20px;padding-right: 20px;">Suscríbete</a>
+                    <a href="#" class="btn btn-primary custom-button red-btn btn-sm" style="background: #d9572f;    padding-left: 20px;padding-right: 20px;">Suscr&iacute;bete</a>
                 </div>
             </div>
             <div class="col-md-3 wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
                 <ul class="social" style="margin-top: 14px;">
-                    <li><a href="#"><i class="fa fa-instagram fa-2x"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter-square fa-2x"></i></a></li>
-                    <li><a href="#"><i class="fa fa-facebook-official fa-2x"></i></a></li>
-                    <li><a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+                    <li><a href="https://www.instagram.com/lugbrand/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a></li>
+                    <li><a href="#" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+                    <li><a href="https://www.facebook.com/Lugbrand-347737948998495/" target="_blank"><i class="fa fa-facebook-official fa-2x"></i></a></li>
+                    <li><a href="#" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
                 </ul>
             </div>
         </div>
@@ -93,7 +93,9 @@
                 </button>
                 <div class="navbar-brand">
                     <div class="positionCenterFixedLogo" style="width: 100%;">
-                        <img class="img-responsive" src="images/lugbrand.png" alt="Zerif" style="height: -webkit-fill-available;">
+                        <a href="#home">
+                            <img class="img-responsive" src="images/lugbrand.png" alt="Zerif" style="height: -webkit-fill-available;">
+                        </a>
                     </div>
                 </div>
             </div>
@@ -101,7 +103,7 @@
                 <ul class="nav navbar-nav navbar-right responsive-nav main-nav-list">
                     <li><a href="#focus">Lubgrand</a></li>
                     <li><a href="#aboutus">Servicios</a></li>
-                    <li><a href="#aboutus5">Investigación de Mercados</a></li>
+                    <li><a href="#aboutus5">Investigaci&oacute;n de Mercados</a></li>
                     <li><a href="#focus2">Diario Lugbrand</a></li>
                     <li><a href="#contact">Contacto</a></li>
                 </ul>
@@ -110,9 +112,9 @@
     </div>
 
     <div class="container">
-        <h2 class="intro" style="text-align: left;     color: #ce642f;    font-family: monospace;">MARKETING INSÓLITO</h2>
-        <h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">NUESTRO SECRETO DE CREACIÓN, </h3>
-        <h3 class="intro" style="text-align: left; margin-top: 0;    font-family: monospace;">COMO TRIÁNGULO,</h3>
+        <h2 class="intro" style="text-align: left;     color: #ce642f;    font-family: monospace;">MARKETING INS&Oacute;LITO</h2>
+        <h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">NUESTRO SECRETO DE CREACI&Oacute;N, </h3>
+        <h3 class="intro" style="text-align: left; margin-top: 0;    font-family: monospace;">COMO TRI&Aacute;NGULO,</h3>
         <h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">SE BASA EN TRES GRANDES PILARES </h3>
     </div>
 </header>
@@ -128,21 +130,21 @@
                 <div class="service-icon">
                     <i class="pixeden pd-icon-monitor"></i>
                 </div>
-                <h5 class="red-border-bottom">Estratégia y Táctica</h5>
+                <h5 class="red-border-bottom">Estrat&eacute;gia y T&aacute;ctica</h5>
             </div>
 
             <div class="col-lg-4 col-sm-4 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
                 <div class="service-icon">
                     <span class="pixeden pd-icon-camera"></span>
                 </div>
-                <h5 class="red-border-bottom">Diseño Creativo</h5>
+                <h5 class="red-border-bottom">Dise&ntilde;o Creativo</h5>
             </div>
 		
             <div class="col-lg-4 col-sm-4 focus-box blue wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
                 <div class="service-icon">
                     <i class="pixeden pd-icon-email-marketing"></i>
                 </div>
-                <h5 class="red-border-bottom">Generación Digital</h5>
+                <h5 class="red-border-bottom">Generaci&oacute;n Digital</h5>
             </div>
         </div>
     </div>
@@ -153,14 +155,14 @@
         <div class="row">
             <div class="col-lg-5 col-md-5 column">
                 <div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                    <img class="img-responsive" src="images/portfolio/7.jpg"  alt="project"/>
+                    <img class="img-responsive marginCustomImages" src="images/portfolio/7.jpg"  alt="project"/>
                 </div>
             </div>
 		
             <div class="col-lg-6 col-md-6 column" style="margin-left: 4%; font-size: 1.5em;">
                 <p style="text-align: justify; color: white;">
-                    La visión de una estrategia es un arte delicado, dificil de obtener. Estamos ansiosos por entrar al campo de batalla y entregarle la vistoria a tu Marca.<br/><br/>
-                    La estratégia correcta para determinar, en gran medida, el éxito de tu producto o servicio. Trabajamos en base a tus atributos para posicionarte sobre la competencia.
+                    La visi&oacute;n de una estrategia es un arte delicado, dificil de obtener. Estamos ansiosos por entrar al campo de batalla y entregarle la vistoria a tu Marca.<br/><br/>
+                    La estrat&eacute;gia correcta para determinar, en gran medida, el &eacute;xito de tu producto o servicio. Trabajamos en base a tus atributos para posicionarte sobre la competencia.
                 </p>
             </div>
         </div>
@@ -172,12 +174,12 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 column pull-right customFixedImage">
                 <div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                    <img class="img-responsive" src="images/portfolio/7.jpg"  alt="project"/>
+                    <img class="img-responsive marginCustomImages" src="images/portfolio/7.jpg"  alt="project"/>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 column" style="font-size: 1.5em;">
                 <p style="text-align: justify; color: #000718; padding-top: 10%;">
-                    El Branding no solo se trata de diseñar ruido que no pueda ser distinguido entre la multitud, es el arte de crear marcas exitosas, que manejamos a la perfección.
+                    El Branding no solo se trata de dise&ntilde;ar ruido que no pueda ser distinguido entre la multitud, es el arte de crear marcas exitosas, que manejamos a la perfecci&oacute;n.
                 </p>
             </div>
         </div>
@@ -189,14 +191,14 @@
         <div class="row">
             <div class="col-lg-5 col-md-5 column">
                 <div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                    <img class="img-responsive" src="images/portfolio/7.jpg"  alt="project"/>
+                    <img class="img-responsive marginCustomImages" src="images/portfolio/7.jpg"  alt="project"/>
                 </div>
             </div>
 
             <div class="col-lg-6 col-md-6 column" style="margin-left: 4%; font-size: 1.5em;">
                 <p style="text-align: justify; color: white;    margin-top: 10%;">
-                    el Marketing Digital es parte de nosotros, es nuestro principal proposito, por eso somos competidores obsecionadosy tu voz a la Comunidad 24/7.<br/><br/>
-                    Creamos, compartimos, recogemos la data compleja y la analizamos para perfeccionar la estratégia. Somos ingenieros del Social Media.
+                    El Marketing Digital es parte de nosotros, es nuestro principal proposito, por eso somos competidores obsecionados y tu voz a la Comunidad 24/7.<br/><br/>
+                    Creamos, compartimos, recogemos la data compleja y la analizamos para perfeccionar la estrat&eacute;gia. Somos ingenieros del Social Media.
                 </p>
             </div>
         </div>
@@ -221,7 +223,7 @@
     <div class="container">
         <div class="section-header">
             <h6 class="white-text" style="    text-align: left;margin-left: 20%;">
-                ¿Porque unirse a la
+                &iquest;Porque unirse a la
             </h6>
             <h2 class="white-text" style="color: #d9572f;">#COMUNIDAD SOCIAL?</h2>
         </div>
@@ -235,21 +237,21 @@
                 </p>
             </div>
             <div class="col-lg-6 col-md-6 column">
-                <img  class="img-responsive" src="images/portfolio/7.jpg"  alt="project"/>
+                <img  class="img-responsive marginCustomImages" src="images/portfolio/7.jpg"  alt="project"/>
             </div>
         </div>
     </div>
 </section>
 
-<section class="about-us" id="aboutus5" style="background-color: grey;">
+<section class="about-us" id="aboutus5" style="background-color: grey;background: url(./images/backgrounds/analitica.jpeg);font-weight: bolder;">
     <div class="container">
         <div class="row">
             <div class="section-header" style="padding-bottom: 30px; text-align: right;">
-                <h3 class="white-text" style="color: black;margin-right: 4%;"><b>HACEMOS INVESTIGACIÓN DE MERCADO</b></h3>
+                <h3 class="white-text" style="color: black;margin-right: 4%;"><b>HACEMOS INVESTIGACI&Oacute;N DE MERCADO</b></h3>
             </div>
             <div class="col-lg-10 col-md-10 column" style="margin-bottom: 2%;">
                 <p style="color: black; text-align: justify; font-size: 1.5em;">
-                    ¿Como complaces al mercado sin conocerlo? en LugBrand estamos obsecionados con el conocimiento, por eso nos dedicamos a realizar Investigaciones
+                    &iquest;Como complaces al mercado sin conocerlo? en LugBrand estamos obsecionados con el conocimiento, por eso nos dedicamos a realizar Investigaciones
                     de Mercado que nos permiten ampliar nuestra vision para entender al entorno, siempre recordando que
                 </p>
             </div>
@@ -257,11 +259,11 @@
 
         <div class="row">
             <div class="section-header" style="padding-bottom: 30px; text-align: right;">
-                <h3 class="white-text" style="color: black; margin-right: 4%;"><b>EL CONOCIMIENTO ES UN ARMA DE CONSTRUCCIÓN MASIVA</b></h3>
+                <h3 class="white-text" style="color: black; margin-right: 4%;"><b>EL CONOCIMIENTO ES UN ARMA DE CONSTRUCCI&Oacute;N MASIVA</b></h3>
             </div>
             <div class="col-lg-10 col-md-10 column">
                 <p style="color: black; text-align: justify; font-size: 1.5em;">
-                    Recibe nuestros artículos mensuales <a href="#" class="btn btn-primary custom-button btn-sm" style="background-color: black"><b>Suscríbete</b></a>
+                    Recibe nuestros art&iacute;culos mensuales <a href="#" class="btn btn-primary custom-button btn-sm" style="background-color: black"><b>Suscr&iacute;bete</b></a>
                 </p>
             </div>
         </div>
@@ -279,21 +281,21 @@
                 <figure class="profile-pic">
                     <img src="images/team/pic1.jpg" alt=""> <!-- MEMBER PROFILE PIC -->
                 </figure>
-                <h5 class="red-border-bottom">Estratégia y Táctica</h5>
+                <h5 class="red-border-bottom">Estrat&eacute;gia y T&aacute;ctica</h5>
             </div>
 
             <div class="col-lg-4 col-sm-4 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
                 <div class="service-icon">
                     <span class="pixeden pd-icon-camera"></span>
                 </div>
-                <h5 class="green-border-bottom">Diseño Creativo</h5>
+                <h5 class="green-border-bottom">Dise&ntilde;o Creativo</h5>
             </div>
 
             <div class="col-lg-4 col-sm-4 focus-box blue wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
                 <div class="service-icon">
                     <i class="pixeden pd-icon-email-marketing"></i>
                 </div>
-                <h5 class="blue-border-bottom">Generación Digital</h5>
+                <h5 class="blue-border-bottom">Generaci&oacute;n Digital</h5>
             </div>
         </div>
     </div>
@@ -337,7 +339,7 @@
 
 <footer>
     <div class="container">
-        <div class="col-md-5 company-details">
+        <div class="col-md-3 company-details">
             <div class="icon-top red-text">
                 <i class="icon-fontawesome-webfont-302"></i>
             </div>
@@ -348,22 +350,22 @@
             <div class="icon-top green-text">
                 <i class="icon-fontawesome-webfont-329"></i>
             </div>
-            contact@designlab.co
+            info@lugbrand.com.ve
         </div>
 	
-        <div class="col-md-2 company-details">
+        <div class="col-md-4 company-details">
             <div class="icon-top blue-text">
                 <i class="icon-fontawesome-webfont-101"></i>
             </div>
-            +613 0000 0000
+            0412-4017861 / 0412-4051408
         </div>
 	
         <div class="col-lg-3 col-sm-3 copyright">
             <ul class="social">
-                <li><a href="#"><i class="fa fa-instagram fa-2x"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter-square fa-2x"></i></a></li>
-                <li><a href="#"><i class="fa fa-facebook-official fa-2x"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+                <li><a href="https://www.instagram.com/lugbrand/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a></li>
+                <li><a href="#" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+                <li><a href="https://www.facebook.com/Lugbrand-347737948998495/" target="_blank"><i class="fa fa-facebook-official fa-2x"></i></a></li>
+                <li><a href="#" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
             </ul>
         </div>
     </div>

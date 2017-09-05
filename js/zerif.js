@@ -4,9 +4,9 @@
 $.vegas('slideshow', {
   delay:7000,
   backgrounds:[
-    { src:'images/backgrounds/banner1.2.jpg', fade:1000 },
     { src:'images/backgrounds/bannerportada1.jpg', fade:1000 },
-    { src:'images/backgrounds/lugbrand1.2.jpg', fade:1000 }
+    { src:'images/backgrounds/bannerportada2.jpg', fade:1000 },
+    { src:'images/backgrounds/bannerportada3.jpg', fade:1000 }
   ]
 });
       

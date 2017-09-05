@@ -67,15 +67,15 @@
                         <b>&Uacute;nete a la comunidad de socios de Lugbrand</b></h3>
                 </div>
                 <div class="col-md-3">
-                    <a href="#contact" class="btn btn-primary custom-button red-btn btn-sm" style="background: #d9572f;    padding-left: 20px;padding-right: 20px;">Suscr&iacute;bete</a>
+                    <a href="#contact" class="btn btn-primary custom-button red-btn btn-sm" style="background: #ff7556;    padding-left: 20px;padding-right: 20px;">Suscr&iacute;bete</a>
                 </div>
             </div>
             <div class="col-md-3 wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
                 <ul class="social" style="margin-top: 14px;">
                     <li><a href="https://www.instagram.com/lugbrand/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a></li>
-                    <li><a href="#" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCuLjdHMK-pQOk-yT8B-eoYA" target="_blank"><i class="fa fa-youtube-square fa-2x"></i></a></li>
                     <li><a href="https://www.facebook.com/Lugbrand-347737948998495/" target="_blank"><i class="fa fa-facebook-official fa-2x"></i></a></li>
-                    <li><a href="#" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/lug-brand-b61a7214a/" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
                 </ul>
             </div>
         </div>
@@ -92,11 +92,11 @@
                     <span class="icon-bar"></span>
                 </button>
                 <div class="navbar-brand fixedMarginMainIcon">
-                    <div class="positionCenterFixedLogo" style="width: 100%;">
+<!--                    <div class="positionCenterFixedLogo" style="width: 100%;">-->
                         <a href="#home">
-                            <img class="img-responsive" src="images/lugbrand.png" alt="Zerif" style="height: -webkit-fill-available;">
+                            <img src="images/logo-fixed.jpg" alt="Zerif">
                         </a>
-                    </div>
+<!--                    </div>-->
                 </div>
             </div>
             <nav class="navbar-collapse collapse" role="navigation" id="bs-navbar-collapse">
@@ -111,12 +111,12 @@
         </div>
     </div>
 
-    <div class="container">
-        <h2 class="intro" style="text-align: left;     color: #ce642f;    font-family: monospace;">MARKETING INS&Oacute;LITO</h2>
-        <h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">NUESTRO SECRETO DE CREACI&Oacute;N, </h3>
-        <h3 class="intro" style="text-align: left; margin-top: 0;    font-family: monospace;">COMO TRI&Aacute;NGULO,</h3>
-        <h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">SE BASA EN TRES GRANDES PILARES </h3>
-    </div>
+<!--    <div class="container">-->
+<!--        <h2 class="intro" style="text-align: left;     color: #ce642f;    font-family: monospace;">MARKETING INS&Oacute;LITO</h2>-->
+<!--        <h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">NUESTRO SECRETO DE CREACI&Oacute;N, </h3>-->
+<!--        <h3 class="intro" style="text-align: left; margin-top: 0;    font-family: monospace;">COMO TRI&Aacute;NGULO,</h3>-->
+<!--        <h3 class="intro" style="text-align: left; margin-top: 0;    line-height: 0;    font-family: monospace;">SE BASA EN TRES GRANDES PILARES </h3>-->
+<!--    </div>-->
 </header>
 
 <section class="focus" id="focus">
@@ -205,7 +205,7 @@
     </div>
 </section>
 
-<section class="purchase-now" style="    padding-bottom: 0;    padding-top: 0;    background: #d9572f;">
+<section class="purchase-now" style="    padding-bottom: 0;    padding-top: 0;    background: #ff7556;">
     <div class="container">
         <div class="row">
             <div class="col-md-8">
@@ -225,7 +225,7 @@
             <h6 class="white-text" style="    text-align: left;margin-left: 20%;">
                 &iquest;Porque unirse a la
             </h6>
-            <h2 class="white-text" style="color: #d9572f;">#COMUNIDAD SOCIAL?</h2>
+            <h2 class="white-text" style="color: #ff7556;">#COMUNIDAD SOCIAL?</h2>
         </div>
         <div class="container">
             <div class="col-lg-6 col-md-6 column"  style="font-size: 1.5em;">
@@ -243,30 +243,30 @@
     </div>
 </section>
 
-<section class="about-us" id="aboutus5" style="background-color: grey;background: url(./images/backgrounds/analitica.jpeg);font-weight: bolder;">
+<section class="about-us" id="aboutus5" style="background-color: #c1c1c1; font-weight: bolder;">
     <div class="container">
         <div class="row">
-            <div class="section-header" style="padding-bottom: 30px; text-align: right;">
-                <h3 class="white-text" style="color: black;margin-right: 4%;"><b>HACEMOS INVESTIGACI&Oacute;N DE MERCADO</b></h3>
+            <div class="section-header" style="padding-bottom: 30px; text-align: center;">
+                <h3 class="white-text" style="color: black;"><b>HACEMOS INVESTIGACI&Oacute;N DE MERCADO</b></h3>
             </div>
-            <div class="col-lg-10 col-md-10 column" style="margin-bottom: 2%;">
+            <div class="col-lg-12 col-md-12 column" style="margin-bottom: 2%;">
                 <p style="color: black; text-align: justify; font-size: 1.5em;">
                     &iquest;Como complaces al mercado sin conocerlo? en LugBrand estamos obsecionados con el conocimiento, por eso nos dedicamos a realizar Investigaciones
                     de Mercado que nos permiten ampliar nuestra vision para entender al entorno, siempre recordando que
                 </p>
             </div>
-        </div>
-
-        <div class="row">
-            <div class="section-header" style="padding-bottom: 30px; text-align: right;">
-                <h3 class="white-text" style="color: black; margin-right: 4%;"><b>EL CONOCIMIENTO ES UN ARMA DE CONSTRUCCI&Oacute;N MASIVA</b></h3>
+            <div class="col-lg-12 col-md-12 column" style="margin-bottom: 2%;">
+                <p style="color: black; text-align: center; font-size: 1.5em;">
+                    Recibe nuestros art&iacute;culos mensuales
+                </p>
             </div>
-            <div class="col-lg-10 col-md-10 column">
-                <p style="color: black; text-align: justify; font-size: 1.5em;">
-                    Recibe nuestros art&iacute;culos mensuales <a href="#contact" class="btn btn-primary custom-button btn-sm" style="background-color: black"><b>Suscr&iacute;bete</b></a>
+            <div class="col-lg-12 col-md-12 column">
+                <p style="color: black; text-align: center; font-size: 1.5em;">
+                    <a href="#contact" class="btn btn-primary custom-button btn-sm" style="background-color: #ff7556"><b>Suscr&iacute;bete</b></a>
                 </p>
             </div>
         </div>
+
     </div>
 </section>
 
@@ -301,7 +301,7 @@
     </div>
 </section>
 
-<section class="contact-us" id="contact">
+<section class="contact-us" id="contact" style="background: url('./images/backgrounds/banner2.jpg'); background-position: center center">
     <div class="container">
         <div class="section-header">
             <h2 class="white-text">Contacto</h2>
@@ -363,9 +363,9 @@
         <div class="col-lg-3 col-sm-3 copyright">
             <ul class="social">
                 <li><a href="https://www.instagram.com/lugbrand/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a></li>
-                <li><a href="#" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+                <li><a href="https://www.youtube.com/channel/UCuLjdHMK-pQOk-yT8B-eoYA" target="_blank"><i class="fa fa-youtube-square fa-2x"></i></a></li>
                 <li><a href="https://www.facebook.com/Lugbrand-347737948998495/" target="_blank"><i class="fa fa-facebook-official fa-2x"></i></a></li>
-                <li><a href="#" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/lug-brand-b61a7214a/" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
             </ul>
         </div>
     </div>

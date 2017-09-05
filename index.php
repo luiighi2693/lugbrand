@@ -127,23 +127,21 @@
 
         <div class="row">
             <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <div class="service-icon">
-                    <i class="pixeden pd-icon-monitor"></i>
-                </div>
+                <figure class="profile-pic">
+                    <img src="images/icons/icono%203.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
+                </figure>
                 <h5 class="red-border-bottom">Estrat&eacute;gia y T&aacute;ctica</h5>
             </div>
-
-            <div class="col-lg-4 col-sm-4 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <div class="service-icon">
-                    <span class="pixeden pd-icon-camera"></span>
-                </div>
+            <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                <figure class="profile-pic">
+                    <img src="images/icons/icono%202.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
+                </figure>
                 <h5 class="red-border-bottom">Dise&ntilde;o Creativo</h5>
             </div>
-		
-            <div class="col-lg-4 col-sm-4 focus-box blue wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <div class="service-icon">
-                    <i class="pixeden pd-icon-email-marketing"></i>
-                </div>
+            <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                <figure class="profile-pic">
+                    <img src="images/icons/icono%203.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
+                </figure>
                 <h5 class="red-border-bottom">Generaci&oacute;n Digital</h5>
             </div>
         </div>
@@ -155,7 +153,7 @@
         <div class="row">
             <div class="col-lg-5 col-md-5 column">
                 <div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                    <img class="img-responsive marginCustomImages" src="images/portfolio/7.jpg"  alt="project"/>
+                    <img class="img-responsive marginCustomImages" src="images/servicio%201.1.png"  alt="project"/>
                 </div>
             </div>
 		
@@ -174,7 +172,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 column pull-right customFixedImage">
                 <div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                    <img class="img-responsive marginCustomImages" src="images/portfolio/7.jpg"  alt="project"/>
+                    <img class="img-responsive marginCustomImages" src="images/servicio%202.png"  alt="project"/>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 column fontSizeFixed" style="font-size: 1.5em;">
@@ -191,7 +189,7 @@
         <div class="row">
             <div class="col-lg-5 col-md-5 column">
                 <div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                    <img class="img-responsive marginCustomImages" src="images/portfolio/7.jpg"  alt="project"/>
+                    <img class="img-responsive marginCustomImages" src="images/servicio%203.1.png"  alt="project"/>
                 </div>
             </div>
 
@@ -279,23 +277,21 @@
         <div class="row">
             <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
                 <figure class="profile-pic">
-                    <img src="images/team/pic1.jpg" alt=""> <!-- MEMBER PROFILE PIC -->
+                    <img src="images/icons/icono%203.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
                 </figure>
                 <h5 class="red-border-bottom">Estrat&eacute;gia y T&aacute;ctica</h5>
             </div>
-
-            <div class="col-lg-4 col-sm-4 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <div class="service-icon">
-                    <span class="pixeden pd-icon-camera"></span>
-                </div>
-                <h5 class="green-border-bottom">Dise&ntilde;o Creativo</h5>
+            <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                <figure class="profile-pic">
+                    <img src="images/icons/icono%202.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
+                </figure>
+                <h5 class="red-border-bottom">Dise&ntilde;o Creativo</h5>
             </div>
-
-            <div class="col-lg-4 col-sm-4 focus-box blue wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <div class="service-icon">
-                    <i class="pixeden pd-icon-email-marketing"></i>
-                </div>
-                <h5 class="blue-border-bottom">Generaci&oacute;n Digital</h5>
+            <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                <figure class="profile-pic">
+                    <img src="images/icons/icono%203.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
+                </figure>
+                <h5 class="red-border-bottom">Generaci&oacute;n Digital</h5>
             </div>
         </div>
     </div>

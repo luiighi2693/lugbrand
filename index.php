@@ -91,7 +91,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <div class="navbar-brand fixedMarginMainIcon">
+                <div class="navbar-brand">
 <!--                    <div class="positionCenterFixedLogo" style="width: 100%;">-->
                         <a href="#home">
                             <img src="images/logo-fixed.jpg" alt="Zerif">

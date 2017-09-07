@@ -260,7 +260,7 @@
             </div>
             <div class="col-lg-12 col-md-12 column">
                 <p style="color: black; text-align: center; font-size: 1.5em;">
-                    <a href="#contact" class="btn btn-primary custom-button btn-sm" style="background-color: #ff7556"><b>Suscr&iacute;bete</b></a>
+                    <a href="#contact" class="btn btn-primary custom-button btn-lg" style="background-color: #ff7556"><b>Suscr&iacute;bete</b></a>
                 </p>
             </div>
         </div>
@@ -297,7 +297,7 @@
     </div>
 </section>
 
-<section class="contact-us" id="contact" style="background: url('./images/backgrounds/banner2.jpg'); background-position: center center">
+<section class="contact-us" id="contact" style="background: url('./images/backgrounds/bannerconctacto.jpg'); background-position: center center">
     <div class="container">
         <div class="section-header">
             <h2 class="white-text">Contacto</h2>
@@ -339,17 +339,17 @@
             <div class="icon-top red-text">
                 <i class="icon-fontawesome-webfont-302"></i>
             </div>
-            PO Box 16122 Collins Street West, Victoria 8007 Australia
+            Valencia - Edo. Carabobo
         </div>
 	
-        <div class="col-md-2 company-details">
+        <div class="col-md-3 company-details">
             <div class="icon-top green-text">
                 <i class="icon-fontawesome-webfont-329"></i>
             </div>
             info@lugbrand.com.ve
         </div>
 	
-        <div class="col-md-4 company-details">
+        <div class="col-md-3 company-details">
             <div class="icon-top blue-text">
                 <i class="icon-fontawesome-webfont-101"></i>
             </div>

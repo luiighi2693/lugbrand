@@ -7,7 +7,7 @@
 
 }
 .pd-icon-monitor {
-    background: url(../assets/pd-icons/icon-monitor.png) no-repeat;
+    background: url(../images/icons/icono%203.1.png) no-repeat;
     width: 68px;
 }
 .pd-icon-camera {
@@ -247,4 +247,19 @@
 .pd-icon-arrows {
     background: url(../assets/pd-icons/icon-arrows.png) no-repeat;
     width: 61px;
+}
+
+.pd-icon-lugbrand-1 {
+    background: url(../images/icons/icono%203.1.png) no-repeat;
+    width: 68px;
+}
+
+.pd-icon-lugbrand-2 {
+    background: url(../images/icons/icono%202.1.png) no-repeat;
+    width: 68px;
+}
+
+.pd-icon-lugbrand-3 {
+    background: url(../images/icons/icono%203.1.png) no-repeat;
+    width: 68px;
 }

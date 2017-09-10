@@ -91,10 +91,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <div class="navbar-brand">
+                <div class="navbar-brand iconLogoFixed" style="padding-top: 13px;">
 <!--                    <div class="positionCenterFixedLogo" style="width: 100%;">-->
                         <a href="#home">
-                            <img src="images/logo-fixed.jpg" alt="Zerif">
+<!--                            <img src="images/logo-fixed.jpg" alt="Zerif">-->
+                            <img src="images/Logo1.jpg" alt="Zerif">
                         </a>
 <!--                    </div>-->
                 </div>
@@ -123,25 +124,28 @@
     <div class="container">
         <div class="section-header">
             <h2 class="dark-text" style="font-family: monospace">LugBrand</h2>
+            <h4>
+                Marketing + Branding + Media
+            </h4>
         </div>
 
         <div class="row">
             <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <figure class="profile-pic">
-                    <img src="images/icons/icono%203.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
-                </figure>
+                <div class="service-icon">
+                    <i class="pixeden pd-icon-lugbrand-1"></i>
+                </div>
                 <h5 class="red-border-bottom">Estrat&eacute;gia y T&aacute;ctica</h5>
             </div>
             <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <figure class="profile-pic">
-                    <img src="images/icons/icono%202.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
-                </figure>
+                <div class="service-icon">
+                    <i class="pixeden pd-icon-lugbrand-2"></i>
+                </div>
                 <h5 class="red-border-bottom">Dise&ntilde;o Creativo</h5>
             </div>
             <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <figure class="profile-pic">
-                    <img src="images/icons/icono%203.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
-                </figure>
+                <div class="service-icon">
+                    <i class="pixeden pd-icon-lugbrand-3"></i>
+                </div>
                 <h5 class="red-border-bottom">Generaci&oacute;n Digital</h5>
             </div>
         </div>
@@ -159,8 +163,8 @@
 		
             <div class="col-lg-6 col-md-6 column fontSizeFixed" style="margin-left: 4%; font-size: 1.5em;">
                 <p style="text-align: justify; color: white;">
-                    La visi&oacute;n de una estrategia es un arte delicado, dificil de obtener. Estamos ansiosos por entrar al campo de batalla y entregarle la vistoria a tu Marca.<br/><br/>
-                    La estrat&eacute;gia correcta para determinar, en gran medida, el &eacute;xito de tu producto o servicio. Trabajamos en base a tus atributos para posicionarte sobre la competencia.
+                    La visi&oacute;n de un estratega es un arte delicado, dif&iacute;cil de obtener. Estamos ansiosos por entrar al campo de batalla y entregarle la victoria a tu Marca.<br/><br/>
+                    La estrat&eacute;gia correcta puede determinar, en gran medida, el &eacute;xito de tu producto o servicio. Trabajamos en base a tus atributos para posicionarte sobre la competencia.
                 </p>
             </div>
         </div>
@@ -195,19 +199,19 @@
 
             <div class="col-lg-6 col-md-6 column fontSizeFixed" style="margin-left: 4%; font-size: 1.5em;">
                 <p style="text-align: justify; color: white;    margin-top: 10%;">
-                    El Marketing Digital es parte de nosotros, es nuestro principal proposito, por eso somos competidores obsecionados y tu voz a la Comunidad 24/7.<br/><br/>
-                    Creamos, compartimos, recogemos la data compleja y la analizamos para perfeccionar la estrat&eacute;gia. Somos ingenieros del Social Media.
+                    El Marketing Digital es parte de nosotros, es nuestro principal prop&oacute;sito, por eso somos competidores obsesionados y tu voz a la Comunidad 24/7.<br/><br/>
+                    Creamos, compartimos, recogemos la data compleja y la analizamos para perfeccionar la estrat&eacute;gia. <br/><br/>Somos ingenieros del Social Media.
                 </p>
             </div>
         </div>
     </div>
 </section>
 
-<section class="purchase-now" style="    padding-bottom: 0;    padding-top: 0;    background: #ff7556;">
+<section class="purchase-now" style="    padding-bottom: 0;    padding-top: 0;    background: #ff7556;     background: url(./images/BotondeAccion.jpg); background-size: contain;">
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <h3 class="white-text" style="text-align: right;">
+                <h3 class="actionBannerFixed" style="text-align: right;">
                     Conoce nuestro Portafolio Online</h3>
             </div>
             <div class="col-md-4">
@@ -221,7 +225,7 @@
     <div class="container">
         <div class="section-header">
             <h6 class="white-text" style="    text-align: left;margin-left: 20%;">
-                &iquest;Porque unirse a la
+                &iquest;Por qu&eacute; unirse a la
             </h6>
             <h2 class="white-text" style="color: #ff7556;">#COMUNIDAD SOCIAL?</h2>
         </div>
@@ -235,7 +239,7 @@
                 </p>
             </div>
             <div class="col-lg-6 col-md-6 column">
-                <img  class="img-responsive marginCustomImages" src="images/portfolio/7.jpg"  alt="project"/>
+                <img  class="img-responsive marginCustomImages" src="images/socialmaster.png"  alt="project"/>
             </div>
         </div>
     </div>
@@ -249,7 +253,7 @@
             </div>
             <div class="col-lg-12 col-md-12 column" style="margin-bottom: 2%;">
                 <p style="color: black; text-align: justify; font-size: 1.5em;">
-                    &iquest;Como complaces al mercado sin conocerlo? en LugBrand estamos obsecionados con el conocimiento, por eso nos dedicamos a realizar Investigaciones
+                    &iquest;C&oacute;mo complaces al mercado sin conocerlo? En LugBrand estamos obsesionados con el conocimiento, por eso nos dedicamos a realizar Investigaciones
                     de Mercado que nos permiten ampliar nuestra vision para entender al entorno, siempre recordando que
                 </p>
             </div>
@@ -297,7 +301,7 @@
     </div>
 </section>
 
-<section class="contact-us" id="contact" style="background: url('./images/backgrounds/bannerconctacto.jpg'); background-position: center center">
+<section class="contact-us" id="contact" style="background: url('./images/bannerconctacto.jpg'); background-position: center center">
     <div class="container">
         <div class="section-header">
             <h2 class="white-text">Contacto</h2>

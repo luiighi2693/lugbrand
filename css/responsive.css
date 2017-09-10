@@ -329,3 +329,19 @@
 		font-size: 0.99em!important;
 	}
 }
+@media (max-width: 405px) and (min-width: 200px) {
+	.iconLogoFixed{
+		padding: 15px 5px;
+	}
+}
+@media (max-width: 384px) and (min-width: 200px) {
+	.iconLogoFixed{
+		width: 70%;
+	}
+}
+
+@media (max-width: 991px) and (min-width: 200px) {
+	.actionBannerFixed{
+		text-align: center!important;
+	}
+}

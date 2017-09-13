@@ -166,6 +166,18 @@
                     La visi&oacute;n de un estratega es un arte delicado, dif&iacute;cil de obtener. Estamos ansiosos por entrar al campo de batalla y entregarle la victoria a tu Marca.<br/><br/>
                     La estrat&eacute;gia correcta puede determinar, en gran medida, el &eacute;xito de tu producto o servicio. Trabajamos en base a tus atributos para posicionarte sobre la competencia.
                 </p>
+
+                <br/>
+
+                <div class="col-lg-4 col-md-4 column">
+                    <img class="img-responsive marginCustomImages" src="images/icons/marketing/1atraer.png"  alt="project"/>
+                </div>
+                <div class="col-lg-4 col-md-4 column">
+                    <img class="img-responsive marginCustomImages" src="images/icons/marketing/2convertir.png"  alt="project"/>
+                </div>
+                <div class="col-lg-4 col-md-4 column">
+                    <img class="img-responsive marginCustomImages" src="images/icons/marketing/deleitar.png"  alt="project"/>
+                </div>
             </div>
         </div>
     </div>
@@ -183,6 +195,18 @@
                 <p style="text-align: justify; color: #000718; padding-top: 10%;">
                     El Branding no solo se trata de dise&ntilde;ar ruido que no pueda ser distinguido entre la multitud, es el arte de crear marcas exitosas, que manejamos a la perfecci&oacute;n.
                 </p>
+
+                <br/>
+
+                <div class="col-lg-4 col-md-4 column">
+                    <img class="img-responsive marginCustomImages" src="images/icons/branding/1marca.png"  alt="project"/>
+                </div>
+                <div class="col-lg-4 col-md-4 column">
+                    <img class="img-responsive marginCustomImages" src="images/icons/branding/2material-publicitario.png"  alt="project"/>
+                </div>
+                <div class="col-lg-4 col-md-4 column">
+                    <img class="img-responsive marginCustomImages" src="images/icons/branding/3auditoria.png"  alt="project"/>
+                </div>
             </div>
         </div>
     </div>
@@ -202,6 +226,18 @@
                     El Marketing Digital es parte de nosotros, es nuestro principal prop&oacute;sito, por eso somos competidores obsesionados y tu voz a la Comunidad 24/7.<br/><br/>
                     Creamos, compartimos, recogemos la data compleja y la analizamos para perfeccionar la estrat&eacute;gia. <br/><br/>Somos ingenieros del Social Media.
                 </p>
+
+                <br/>
+
+                <div class="col-lg-4 col-md-4 column">
+                    <img class="img-responsive marginCustomImages" src="images/icons/social/1planificacion.png"  alt="project"/>
+                </div>
+                <div class="col-lg-4 col-md-4 column">
+                    <img class="img-responsive marginCustomImages" src="images/icons/social/2diseno-redes.png"  alt="project"/>
+                </div>
+                <div class="col-lg-4 col-md-4 column">
+                    <img class="img-responsive marginCustomImages" src="images/icons/social/3RRPP.png"  alt="project"/>
+                </div>
             </div>
         </div>
     </div>

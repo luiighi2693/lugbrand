@@ -275,7 +275,7 @@
             <h6 class="white-text" style="    text-align: left;margin-left: 20%;">
                 &iquest;Por qu&eacute; unirse a la
             </h6>
-            <h2 class="white-text" style="color: #ff7556;">#COMUNIDAD SOCIAL?</h2>
+            <h2 class="white-text" style="color: #ff7556; font-size: 2.5em!important;">#COMUNIDAD SOCIAL?</h2>
         </div>
         <div class="container">
             <div class="col-lg-6 col-md-6 column"  style="font-size: 1.5em;">
@@ -327,7 +327,7 @@
         </div>
 
         <div class="row">
-            <img class="img-responsive" src="images/community-manager.jpg"  alt="project"/>
+            <img style="width: 30%;" class="img-responsive" src="images/community-manager.jpg"  alt="project"/>
         </div>
     </div>
 </section>

@@ -131,21 +131,27 @@
 
         <div class="row">
             <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <div class="service-icon">
-                    <i class="pixeden pd-icon-lugbrand-1"></i>
-                </div>
+                <a href="#aboutus">
+                    <div class="service-icon">
+                        <i class="pixeden pd-icon-lugbrand-1"></i>
+                    </div>
+                </a>
                 <h5 class="red-border-bottom">Estrat&eacute;gia y T&aacute;ctica</h5>
             </div>
             <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <div class="service-icon">
-                    <i class="pixeden pd-icon-lugbrand-2"></i>
-                </div>
+                <a href="#aboutus2">
+                    <div class="service-icon">
+                        <i class="pixeden pd-icon-lugbrand-2"></i>
+                    </div>
+                </a>
                 <h5 class="red-border-bottom">Dise&ntilde;o Creativo</h5>
             </div>
             <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <div class="service-icon">
-                    <i class="pixeden pd-icon-lugbrand-3"></i>
-                </div>
+                <a href="#aboutus3">
+                    <div class="service-icon">
+                        <i class="pixeden pd-icon-lugbrand-3"></i>
+                    </div>
+                </a>
                 <h5 class="red-border-bottom">Generaci&oacute;n Digital</h5>
             </div>
         </div>
@@ -169,14 +175,16 @@
 
                 <br/>
 
-                <div class="col-lg-4 col-md-4 column">
-                    <img class="img-responsive marginCustomImages" src="images/icons/marketing/1atraer.png"  alt="project"/>
-                </div>
-                <div class="col-lg-4 col-md-4 column">
-                    <img class="img-responsive marginCustomImages" src="images/icons/marketing/2convertir.png"  alt="project"/>
-                </div>
-                <div class="col-lg-4 col-md-4 column">
-                    <img class="img-responsive marginCustomImages" src="images/icons/marketing/deleitar.png"  alt="project"/>
+                <div class="row hideIcons">
+                    <div class="col-lg-4 col-sm-4 col-centered focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        <img class="img-responsive marginCustomImages widthFixedImages" src="images/icons/marketing/nuevos/deleitar.png"  alt="project"/>
+                    </div>
+                    <div class="col-lg-4 col-sm-4 col-centered focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        <img class="img-responsive marginCustomImages widthFixedImages" src="images/icons/marketing/nuevos/convertir.png"  alt="project"/>
+                    </div>
+                    <div class="col-lg-4 col-sm-4 col-centered focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        <img class="img-responsive marginCustomImages widthFixedImages" src="images/icons/marketing/nuevos/atraer.png"  alt="project"/>
+                    </div>
                 </div>
             </div>
         </div>
@@ -198,14 +206,16 @@
 
                 <br/>
 
-                <div class="col-lg-4 col-md-4 column">
-                    <img class="img-responsive marginCustomImages" src="images/icons/branding/1marca.png"  alt="project"/>
-                </div>
-                <div class="col-lg-4 col-md-4 column">
-                    <img class="img-responsive marginCustomImages" src="images/icons/branding/2material-publicitario.png"  alt="project"/>
-                </div>
-                <div class="col-lg-4 col-md-4 column">
-                    <img class="img-responsive marginCustomImages" src="images/icons/branding/3auditoria.png"  alt="project"/>
+                <div class="row hideIcons">
+                    <div class="col-lg-4 col-sm-4 col-centered focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        <img class="img-responsive marginCustomImages widthFixedImages" src="images/icons/branding/nuevos/marca.png"  alt="project"/>
+                    </div>
+                    <div class="col-lg-4 col-sm-4 col-centered focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        <img class="img-responsive marginCustomImages widthFixedImages" src="images/icons/branding/nuevos/material-publicitario.png"  alt="project"/>
+                    </div>
+                    <div class="col-lg-4 col-sm-4 col-centered focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        <img class="img-responsive marginCustomImages widthFixedImages" src="images/icons/branding/nuevos/auditoria.png"  alt="project"/>
+                    </div>
                 </div>
             </div>
         </div>
@@ -229,21 +239,23 @@
 
                 <br/>
 
-                <div class="col-lg-4 col-md-4 column">
-                    <img class="img-responsive marginCustomImages" src="images/icons/social/1planificacion.png"  alt="project"/>
-                </div>
-                <div class="col-lg-4 col-md-4 column">
-                    <img class="img-responsive marginCustomImages" src="images/icons/social/2diseno-redes.png"  alt="project"/>
-                </div>
-                <div class="col-lg-4 col-md-4 column">
-                    <img class="img-responsive marginCustomImages" src="images/icons/social/3RRPP.png"  alt="project"/>
+                <div class="row hideIcons">
+                    <div class="col-lg-4 col-sm-4 col-centered focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        <img class="img-responsive marginCustomImages widthFixedImages" src="images/icons/social/1planificacion.png"  alt="project"/>
+                    </div>
+                    <div class="col-lg-4 col-sm-4 col-centered focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        <img class="img-responsive marginCustomImages widthFixedImages" src="images/icons/social/2diseno-redes.png"  alt="project"/>
+                    </div>
+                    <div class="col-lg-4 col-sm-4 col-centered focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+                        <img class="img-responsive marginCustomImages widthFixedImages" src="images/icons/social/3RRPP.png"  alt="project"/>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="purchase-now" style="    padding-bottom: 0;    padding-top: 0;    background: #ff7556;     background: url(./images/BotondeAccion.jpg); background-size: contain;">
+<section class="purchase-now" style="    padding-bottom: 0;    padding-top: 0;    background: #ff7556;     background: url(./images/BotondeAccion.jpg); background-size: cover;">
     <div class="container">
         <div class="row">
             <div class="col-md-8">
@@ -281,7 +293,7 @@
     </div>
 </section>
 
-<section class="about-us" id="aboutus5" style="background-color: #c1c1c1; font-weight: bolder;">
+<section class="about-us" id="aboutus5" style="background: url('./images/backgrounds/investigacionMercado/bannerportada.jpg'); background-position: center center; font-weight: bolder;">
     <div class="container">
         <div class="row">
             <div class="section-header" style="padding-bottom: 30px; text-align: center;">
@@ -315,24 +327,7 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <figure class="profile-pic">
-                    <img src="images/icons/icono%203.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
-                </figure>
-                <h5 class="red-border-bottom">Estrat&eacute;gia y T&aacute;ctica</h5>
-            </div>
-            <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <figure class="profile-pic">
-                    <img src="images/icons/icono%202.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
-                </figure>
-                <h5 class="red-border-bottom">Dise&ntilde;o Creativo</h5>
-            </div>
-            <div class="col-lg-4 col-sm-4 focus-box red wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-                <figure class="profile-pic">
-                    <img src="images/icons/icono%203.1.png" alt=""> <!-- MEMBER PROFILE PIC -->
-                </figure>
-                <h5 class="red-border-bottom">Generaci&oacute;n Digital</h5>
-            </div>
+            <img class="img-responsive" src="images/community-manager.jpg"  alt="project"/>
         </div>
     </div>
 </section>

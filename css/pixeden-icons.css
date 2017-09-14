@@ -263,3 +263,18 @@
     background: url(../images/icons/icono%203.1.png) no-repeat;
     width: 68px;
 }
+
+.pd-icon-marketing-1 {
+    background: url(../images/icons/marketing/1atraer.png) no-repeat;
+    width: 68px;
+}
+
+.pd-icon-marketing-2 {
+    background: url(../images/icons/marketing/2convertir.png) no-repeat;
+    width: 68px;
+}
+
+.pd-icon-marketing-3 {
+    background: url(../images/icons/marketing/deleitar.png) no-repeat;
+    width: 68px;
+}

@@ -345,3 +345,25 @@
 		text-align: center!important;
 	}
 }
+
+.fixedServiceIcon{
+	width: 100px!important;
+	height: 100px!important;
+	border: 7px solid #ececec!important;
+}
+
+.fixedPixedenIcon{
+	background-position: center;
+	width: 80px;
+	height: 80px;
+}
+
+.widthFixedImages{
+	width: 60%;
+}
+
+@media (max-width: 768px) and (min-width: 200px) {
+	.hideIcons{
+		display: none;
+	}
+}

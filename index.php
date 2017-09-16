@@ -255,11 +255,11 @@
     </div>
 </section>
 
-<section class="purchase-now" style="    padding-bottom: 0;    padding-top: 0;    background: #ff7556;     background: url(./images/BotondeAccion.jpg); background-size: cover;">
+<section class="purchase-now" style="    padding-bottom: 0;    padding-top: 0;    background: #ff7556;     background: url(./images/backgrounds/fondo-portafolio.jpg); background-size: cover;">
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <h3 class="actionBannerFixed" style="text-align: right;">
+                <h3 class="actionBannerFixed" style="text-align: right; color: white">
                     Conoce nuestro Portafolio Online</h3>
             </div>
             <div class="col-md-4">
@@ -269,44 +269,94 @@
     </div>
 </section>
 
-<section class="about-us" id="aboutus4" style="    background: #110f0f;">
+<section class="about-us" id="aboutu4" style="background-color: black;">
     <div class="container">
         <div class="section-header">
-            <h6 class="white-text" style="    text-align: left;margin-left: 20%;">
+            <h4 class="white-text" style="    text-align: left;margin-left: 20%;">
                 &iquest;Por qu&eacute; unirse a la
-            </h6>
-            <h2 class="white-text" style="color: #ff7556; font-size: 2.5em!important;">#COMUNIDAD SOCIAL?</h2>
+            </h4>
+            <h2 class="white-text" style="color: #ff7556;">#COMUNIDAD SOCIAL?</h2>
         </div>
-        <div class="container">
-            <div class="col-lg-6 col-md-6 column"  style="font-size: 1.5em;">
-                <p style="text-align: justify; padding-left: 15%;">
-                    1 de cada 3 clientes considera que las Redes Sociales son un medio efectivo para descubir productos o marcas.<br/><br/>
-                    Hay 2,3 millones de usuarios  activos en Redes Sociales en la actualidad.<br/><br/>
-                    Instagram tiene ahora 400 millones de usuarios activos<br/><br/>
-                    Google procesa 100 mil millones de busquedas cada mes, es decir, en promedio 40 mil por segundo.
-                </p>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 column zerif-rtl-big-title">
+                    <div class="big-intro" data-scrollreveal="enter left after 0s over 1s" data-sr-init="true" data-sr-complete="true" style="    font-size: 3.2em;font-weight: bold;">2 de cada 3 clientes considera  que las Redes Sociales son un medio efectivo para descubir productos o marcas</div>
             </div>
-            <div class="col-lg-6 col-md-6 column">
-                <img  class="img-responsive marginCustomImages" src="images/socialmaster.png"  alt="project"/>
+            <div class="col-lg-3 col-md-3 column zerif_about_us_center text_and_skills" data-scrollreveal="enter bottom after 0s over 1s" data-sr-init="true" data-sr-complete="true">
+                <p style="    font-size: 1.4em;text-align: justify;">
+                    La transformaci&oacute;n digital es un proceso inevitable. Mas del 80% de las empresas  a nivel mundial consideran que es necesario  tener presencia en el entorno digital.
+                    <br>
+                    <br>Durante este proceso, estas son algunas de las habilidades que como Marca debes tomar en cuenta y que ofrecemos.
+            </div>
+            <div class="col-lg-3 col-md-3 column zerif-rtl-skills ">
+                <ul class="skills" data-scrollreveal="enter right after 0s over 1s" data-sr-init="true" data-sr-complete="true">
+                    <li class="skill skill_1">
+                        <div class="skill-count">
+                            <div style="display: inline; width: 64px; height: 200px;">
+                                <canvas width="80" height="250" style="width: 64px; height: 200px;"></canvas>
+                                <input role="presentation" type="text" id="your-skill-1" value="95" data-thickness=".2" class="skill1" tabindex="-1" readonly="readonly" style="width: 36px; height: 21px; position: absolute; vertical-align: middle; margin-top: 21px; margin-left: -50px; border: 0px; background: none; font-style: normal; font-variant: normal; font-weight: bold; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; text-align: center; color: rgb(255, 255, 255); padding: 0px; -webkit-appearance: none;">
+                            </div>
+                        </div>
+                        <div class="section-legend" style="text-align: center; font-size: 1.3em;">
+                            <label for="your-skill-1">Actualizaci&oacute;n</label>
+                            <label for="your-skill-1">Constante</label>
+                        </div>
+                    </li>
+                    <li class="skill skill_2">
+                        <div class="skill-count">
+                            <div style="display: inline; width: 64px; height: 200px;">
+                                <canvas width="80" height="250" style="width: 64px; height: 200px;"></canvas>
+                                <input role="presentation" type="text" id="your-skill-2" value="98" data-thickness=".2" class="skill2" tabindex="-1" readonly="readonly" style="width: 36px; height: 21px; position: absolute; vertical-align: middle; margin-top: 21px; margin-left: -50px; border: 0px; background: none; font-style: normal; font-variant: normal; font-weight: bold; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; text-align: center; color: rgb(255, 255, 255); padding: 0px; -webkit-appearance: none;">
+                            </div>
+                        </div>
+                        <div class="section-legend" style="text-align: center; font-size: 1.3em;">
+                            <label for="your-skill-2">An&aacute;lisis de</label>
+                            <label for="your-skill-2">Data</label>
+                        </div>
+                    </li>
+                    <li class="skill skill_3">
+                        <div class="skill-count">
+                            <div style="display: inline; width: 64px; height: 200px;">
+                                <canvas width="80" height="250" style="width: 64px; height: 200px;"></canvas>
+                                <input role="presentation" type="text" id="your-skill-3" value="98" data-thickness=".2" class="skill3" tabindex="-1" readonly="readonly" style="width: 36px; height: 21px; position: absolute; vertical-align: middle; margin-top: 21px; margin-left: -50px; border: 0px; background: none; font-style: normal; font-variant: normal; font-weight: bold; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; text-align: center; color: rgb(255, 255, 255); padding: 0px; -webkit-appearance: none;">
+                            </div>
+                        </div>
+                        <div class="section-legend" style="text-align: center; font-size: 1.3em;">
+                            <label for="your-skill-3">Creatividad</label>
+                        </div>
+                    </li>
+                    <li class="skill skill_4">
+                        <div class="skill-count">
+                            <div style="display: inline; width: 64px; height: 200px;">
+                                <canvas width="80" height="250" style="width: 64px; height: 200px;"></canvas>
+                                <input role="presentation" type="text" id="your-skill-4" value="95" data-thickness=".2" class="skill4" tabindex="-1" readonly="readonly" style="width: 36px; height: 21px; position: absolute; vertical-align: middle; margin-top: 21px; margin-left: -50px; border: 0px; background: none; font-style: normal; font-variant: normal; font-weight: bold; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; text-align: center; color: rgb(255, 255, 255); padding: 0px; -webkit-appearance: none;">
+                            </div>
+                        </div>
+                        <div class="section-legend" style="text-align: center; font-size: 1.3em;">
+                            <label for="your-skill-4">Enfoque y</label>
+                            <label for="your-skill-4">Liderazgo</label>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
 </section>
 
-<section class="about-us" id="aboutus5" style="background: url('./images/backgrounds/investigacionMercado/bannerportada.jpg'); background-position: center center; font-weight: bolder;">
+
+<section class="about-us" id="aboutus5" style="background: url('./images/backgrounds/investigacionMercado/fondo-investiqar.jpg  '); background-position: center center; font-weight: bolder;">
     <div class="container">
         <div class="row">
             <div class="section-header" style="padding-bottom: 30px; text-align: center;">
-                <h3 class="white-text" style="color: black;"><b>HACEMOS INVESTIGACI&Oacute;N DE MERCADO</b></h3>
+                <h3 class="white-text" style="color: white;"><b>HACEMOS INVESTIGACI&Oacute;N DE MERCADO</b></h3>
             </div>
             <div class="col-lg-12 col-md-12 column" style="margin-bottom: 2%;">
-                <p style="color: black; text-align: justify; font-size: 1.5em;">
+                <p style="color: white; text-align: justify; font-size: 1.5em;">
                     &iquest;C&oacute;mo complaces al mercado sin conocerlo? En LugBrand estamos obsesionados con el conocimiento, por eso nos dedicamos a realizar Investigaciones
                     de Mercado que nos permiten ampliar nuestra vision para entender al entorno, siempre recordando que
                 </p>
             </div>
             <div class="col-lg-12 col-md-12 column" style="margin-bottom: 2%;">
-                <p style="color: black; text-align: center; font-size: 1.5em;">
+                <p style="color: white; text-align: center; font-size: 1.5em;">
                     Recibe nuestros art&iacute;culos mensuales
                 </p>
             </div>
@@ -326,8 +376,11 @@
             <h2 class="dark-text" style="font-family: monospace">Diario LugBrand</h2>
         </div>
 
-        <div class="row">
-            <img style="width: 30%;" class="img-responsive" src="images/community-manager.jpg"  alt="project"/>
+        <div class="widthFixedImageDiary" style="width: 30%;">
+            <div style="width: 100%;">
+                <img style="    margin-bottom: 2%;" class="img-responsive" src="images/community-manager.jpg"  alt="project"/>
+                Descargar <a href="files/BlogIncómodoUno.docx"><i class="fa fa-download fa-2x" aria-hidden="true"></i></a>
+            </div>
         </div>
     </div>
 </section>

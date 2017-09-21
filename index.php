@@ -379,7 +379,7 @@
         <div class="widthFixedImageDiary" style="width: 30%;">
             <div style="width: 100%;">
                 <img style="    margin-bottom: 2%;" class="img-responsive" src="images/community-manager.jpg"  alt="project"/>
-                Descargar <a href="files/BlogIncómodoUno.docx"><i class="fa fa-download fa-2x" aria-hidden="true"></i></a>
+                Descargar <a href="files/BlogIncomodoUno.docx"><i class="fa fa-download fa-2x" aria-hidden="true"></i></a>
             </div>
         </div>
     </div>
@@ -409,11 +409,11 @@
                     <textarea name="message" class="form-control textarea-box" placeholder="Su Mensaje" id="message"></textarea>
                 </div>
                 <h4 class="success pull-left white-text">
-                    Your message has been sent successfully.
+                    Su mensaje ha sido enviado con exito!
                 </h4>
 					
                 <h4 class="error pull-left white-text">
-                    E-mail must be valid and message must be longer than 1 character.
+                    El correo debe ser v&aacute;lido y el mensaje debe tener al menos un caracter.
                 </h4>
                 <button class="btn btn-primary custom-button red-btn wow fadeInLeft animated" id="submit" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" type="submit">Enviar Mensaje</button>
             </form>

@@ -10,6 +10,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8060aaac-5ff6-439a-b4b8-875ac0ba67f8" name="e-hosting lugbrand" url="http://67.222.129.106">
+        <fileTransfer host="67.222.129.106" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

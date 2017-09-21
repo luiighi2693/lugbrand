@@ -125,7 +125,7 @@ $("#contact-form").submit(function (e) {
     e.preventDefault();
     var name = $("#name").val();
     var email = $("#email").val();
-    var subject = $("#subject").val();
+     var subject = $("#subject").val();
     var message = $("#message").val();
     var dataString = 'name=' + name + '&email=' + email + '&subject=' + subject + '&message=' + message;
 
@@ -137,7 +137,7 @@ $("#contact-form").submit(function (e) {
     if (isValidEmail(email) && (message.length > 1) && (name.length > 1)) {
         $.ajax({
             type: "POST",
-            url: "sendmail.php",
+            url: "mail.php",
             data: dataString,
             success: function () {
                 $('.success').fadeIn(1000);

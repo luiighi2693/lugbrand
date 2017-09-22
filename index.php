@@ -352,7 +352,7 @@
             <div class="col-lg-12 col-md-12 column" style="margin-bottom: 2%;">
                 <p style="color: white; text-align: justify; font-size: 1.5em;">
                     &iquest;C&oacute;mo complaces al mercado sin conocerlo? En LugBrand estamos obsesionados con el conocimiento, por eso nos dedicamos a realizar Investigaciones
-                    de Mercado que nos permiten ampliar nuestra vision para entender al entorno, siempre recordando que
+                    de Mercado que nos permiten ampliar nuestra vision para entender al entorno, siempre recordando que el conocimiento es un arma de construcci&oacute;n masiva.
                 </p>
             </div>
             <div class="col-lg-12 col-md-12 column" style="margin-bottom: 2%;">

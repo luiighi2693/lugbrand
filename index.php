@@ -379,7 +379,7 @@
         <div class="widthFixedImageDiary" style="width: 30%;">
             <div style="width: 100%;">
                 <img style="    margin-bottom: 2%;" class="img-responsive" src="images/community-manager.jpg"  alt="project"/>
-                Descargar <a href="files/BlogIncomodoUno.docx"><i class="fa fa-download fa-2x" aria-hidden="true"></i></a>
+                Descargar <a href="files/community-manager.pdf" target="_blank"><i class="fa fa-download fa-2x" aria-hidden="true"></i></a>
             </div>
         </div>
     </div>
